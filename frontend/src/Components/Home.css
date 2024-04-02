@@ -1,0 +1,11 @@
+img{
+    border-radius: 5%;
+    margin: 50px;
+}
+img:hover{
+    height: 75%;
+    width: 75%;
+}
+.homepage{
+    padding: 25px;
+}
